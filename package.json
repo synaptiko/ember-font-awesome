@@ -1,6 +1,6 @@
 {
   "name": "ember-font-awesome",
-  "version": "4.0.0-rc.3",
+  "version": "4.0.0-rc.4-bayzat.1",
   "description": "An ember-cli addon for using Font Awesome icons in Ember applications.",
   "keywords": [
     "ember-addon"
@@ -19,8 +19,6 @@
     "test": "ember try:each"
   },
   "dependencies": {
-    "@ember-decorators/argument": "^0.8.13",
-    "@ember-decorators/babel-transforms": "^2.0.1",
     "broccoli-filter": "^1.2.4",
     "broccoli-funnel": "^2.0.1",
     "chalk": "^2.3.0",
